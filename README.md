@@ -1,7 +1,7 @@
 Hi 👋 My name is Nader Sakr
 ===========================
 
-Software Engeineer | Flutter Developer
+Flutter Developer
 --------------------------------------
 
 I am Software Engineer with a focus on Flutter app development. An active participant in Codeforce, where I enjoy tackling complex programming challenges. Skilled in utilizing ChatGPT to streamline workflows and improve team collaboration.
