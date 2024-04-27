@@ -7,7 +7,7 @@ Flutter Developer
 I am Software Engineer with a focus on Flutter app development. An active participant in Codeforce, where I enjoy tackling complex programming challenges. Skilled in utilizing ChatGPT to streamline workflows and improve team collaboration.
 
 * 🖥️  See my portfolio at [jimdosite](http://nader-sakr.jimdosite.com/)
-* ✉️  You can contact me at [nadersakr27@gmail.com](mailto:nadersakr27@gmail.com)
+* ✉️  You can contact me at [nadersakr27@gmail.com](mailto:nadersakr.dev@gmail.com)
 * 🚀  I'm currently working on [Socially App](http://github.com/nadersakr/Social-App)
 * 🧠  I'm learning Agile Project Management , Design Pattern from Gang of Four book, SOLID Principles, GetX State Management
 
