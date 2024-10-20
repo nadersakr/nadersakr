@@ -8,7 +8,7 @@ I am Software Engineer with a focus on Flutter app development. An active partic
 
 * 🖥️  See my portfolio at [jimdosite](http://nader-sakr.jimdosite.com/)
 * ✉️  You can contact me at [nadersakr.dev@gmail.com](mailto:nadersakr.dev@gmail.com)
-* 🚀  I'm currently working on [Socially App](http://github.com/nadersakr/Social-App)
+* 🚀  I'm currently working on [Notify App](http://github.com/nadersakr/Notify)
 * 🧠  I'm learning Agile Project Management , Design Pattern from Gang of Four book, SOLID Principles, GetX State Management
 
 ### Skills
