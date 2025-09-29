@@ -1,14 +1,13 @@
-Hi 👋 My name is Nader Sakr
+Hi 👋 I am Nader Sakr
 ===========================
 
-Flutter Developer
+Freelancer Flutter Developer
 --------------------------------------
 
 I am Software Engineer with a focus on Flutter app development. An active participant in Codeforce, where I enjoy tackling complex programming challenges. Skilled in utilizing ChatGPT to streamline workflows and improve team collaboration.
 
 * 🖥️  See my portfolio at [jimdosite](http://nader-sakr.jimdosite.com/)
 * ✉️  You can contact me at [nadersakr.dev@gmail.com](mailto:nadersakr.dev@gmail.com)
-* 🚀  I'm currently working on [Notify App](http://github.com/nadersakr/Notify)
 * 🧠  I'm learning Agile Project Management , Design Pattern from Gang of Four book, SOLID Principles, GetX State Management
 
 ### Skills
